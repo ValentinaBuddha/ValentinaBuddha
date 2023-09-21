@@ -21,6 +21,8 @@ Skills:
 * Hibernate ORM, JPA
 * Postman, Insomnia
 
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaBuddha&theme=github)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ValentinaBuddha)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaBuddha)](https://github.com/anuraghazra/github-readme-stats)

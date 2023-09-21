@@ -2,24 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Backend developer</h3>
 
-Skills: 
-* Java Core
-* типы и структур данных
-* ООП
-* Spring Boot
-* Maven
-* JUnit-тестирование
-* mock-тестирование
-* интеграционные тесты
-* Lombok
-* Microservices, Docker
-* HTTP
-* API, REST
-* GSON, JSON
-* JDBC
-* PostgreSQL, H2
-* Hibernate ORM, JPA
-* Postman, Insomnia
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaBuddha&theme=github)
 

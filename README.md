@@ -29,3 +29,4 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaBuddha&show_icons=true)  
 
+![](https://komarev.com/ghpvc/?username=your-github-ValentinaBuddha)
